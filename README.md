@@ -42,4 +42,4 @@
 ### 欢迎学习支持
 ### 有用或帮到你的话不妨点个star我将感激不尽
 ## Stargazers over time
-[![Stargazers over time](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox.svg?variant=adaptive)](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox)
+[![Stargazers over time](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox.svg?variant=light)](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox)
